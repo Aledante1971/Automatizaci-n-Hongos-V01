@@ -1,0 +1,1 @@
+Firmware ESP32 para controlar el ambiente de cultivo de hongos (temperatura, humedad, FAE). Diseñado para ser usado con sensores comunes y módulos de relés. Este código fue desarrollado parcialmente con asistencia de IA (ChatGPT/Gemini) como se demostró en [https://youtu.be/nI-r1p1H4Fw].
