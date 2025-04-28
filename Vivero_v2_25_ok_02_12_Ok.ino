@@ -15,10 +15,10 @@
 
 // -------------------------------------------------------
 // Credenciales de WiFi y Adafruit IO (Defaults)
-#define DEFAULT_WIFI_SSID "TierraUnida02"
-#define DEFAULT_WIFI_PASSWORD "unidatierra"
-#define IO_USERNAME "aledante"
-#define IO_KEY "12a7cc294ee44dec9e5e6fc579ad70dd"
+#define DEFAULT_WIFI_SSID "TU_RED"
+#define DEFAULT_WIFI_PASSWORD "TU_PASSWORD"
+#define IO_USERNAME "USUARIO_ADAFRUIT"
+#define IO_KEY "TUCLAVEADAFRUIT"
 
 // -------------------------------------------------------
 // Adafruit IO Initialization
